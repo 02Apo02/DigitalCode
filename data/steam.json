@@ -1,0 +1,6 @@
+[
+  { "id": 201, "name": "50 TL Steam Cüzdan Kodu", "price": 50, "stock": 9999, "discount": null },
+  { "id": 202, "name": "100 TL Steam Cüzdan Kodu", "price": 100, "stock": 9999, "discount": null },
+  { "id": 203, "name": "250 TL Steam Cüzdan Kodu", "price": 250, "stock": 9999, "discount": null },
+  { "id": 204, "name": "500 TL Steam Cüzdan Kodu", "price": 500, "stock": 9999, "discount": null }
+]

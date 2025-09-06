@@ -1,0 +1,8 @@
+[
+  { "id": 1, "name": "60 UC", "price": 28, "stock": 9999, "discount": null },
+  { "id": 2, "name": "325 UC", "price": 140, "stock": 9999, "discount": null },
+  { "id": 3, "name": "660 UC", "price": 280, "stock": 9999, "discount": null },
+  { "id": 4, "name": "1800 UC", "price": 750, "stock": 9999, "discount": null },
+  { "id": 5, "name": "Royal Pass Premium", "price": 450, "stock": 9999, "discount": null },
+  { "id": 6, "name": "Royal Pass Premium Plus", "price": 700, "stock": 9999, "discount": null }
+]

@@ -1,0 +1,7 @@
+[
+  { "id": 101, "name": "475 VP", "price": 45, "stock": 800, "discount": null },
+  { "id": 102, "name": "1000 VP", "price": 90, "stock": 800, "discount": null },
+  { "id": 103, "name": "2050 VP", "price": 180, "stock": 800, "discount": null },
+  { "id": 104, "name": "3650 VP", "price": 310, "stock": 800, "discount": null },
+  { "id": 105, "name": "5350 VP", "price": 450, "stock": 800, "discount": null }
+]
